@@ -19,17 +19,17 @@ const repos = [
 //     'Eikanya/Live2d-model/galgame live2d/神楽黎明記～Live2d',
 // ];
 
-const fileBlacklist = [
-    // broken file
-    'Eikanya/Live2d-model/Sacred Sword princesses/model.json',
+// const fileBlacklist = [
+//     // broken file
+//     'Eikanya/Live2d-model/Sacred Sword princesses/model.json',
 
-    // mature models
-    'Eikanya/Live2d-model/Sacred Sword princesses/boss_cg_live2d_h004/.model.json',
-    'Eikanya/Live2d-model/Sacred Sword princesses/char_cg_live2d_h048/.model.json',
+//     // mature models
+//     'Eikanya/Live2d-model/Sacred Sword princesses/boss_cg_live2d_h004/.model.json',
+//     'Eikanya/Live2d-model/Sacred Sword princesses/char_cg_live2d_h048/.model.json',
 
-    // non-model zip
-    'Eikanya/Live2d-model/少女咖啡枪 girls cafe gun/UnityLive2DExtractor+for+ガール・カフェ・ガン.zip',
-];
+//     // non-model zip
+//     'Eikanya/Live2d-model/少女咖啡枪 girls cafe gun/UnityLive2DExtractor+for+ガール・カフェ・ガン.zip',
+// ];
 
 const mocWhitelist = [
     // these moc files are already specified in their settings files
