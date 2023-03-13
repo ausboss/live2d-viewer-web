@@ -41,7 +41,5 @@ const mocWhitelist = [
 
 module.exports = {
     repos,
-    folderBlacklist,
-    fileBlacklist,
     mocWhitelist,
 }
