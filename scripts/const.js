@@ -13,8 +13,7 @@ const fileBlacklist = [
     'Eikanya/Live2d-model/Sacred Sword princesses/model.json',
 
     // mature models
-    'Eikanya/Live2d-model/Sacred Sword princesses/boss_cg_live2d_h004/.model.json',
-    'Eikanya/Live2d-model/Sacred Sword princesses/char_cg_live2d_h048/.model.json',
+
 
     // non-model zip
     'Eikanya/Live2d-model/少女咖啡枪 girls cafe gun/UnityLive2DExtractor+for+ガール・カフェ・ガン.zip',
